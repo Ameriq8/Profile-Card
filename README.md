@@ -69,7 +69,7 @@ I will print user name and the discrim
 
 # Fourthly
 
-Now I will end the code
+Now we will end the code
 
 Now you need to add `.toBuffer()` to the Canvas code and set `;` at the end of `.toBuffer()` In order to prepare the image
 
