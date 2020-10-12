@@ -80,7 +80,7 @@ message.channel.send(attachment);
 ```
 And now you will get the form of such approaches
 
-![Profile Card](/profile_card)
+![Profile Card](`https://cdn.discordapp.com/attachments/751435920942694436/765195963803369502/profile.png`)
 
 And We end the code.
 Thank you Guys for reed the guide.
