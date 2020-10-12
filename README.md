@@ -79,7 +79,8 @@ const attachment = new MessageAttachment(canvas, `profile-card.png`);
 message.channel.send(attachment);
 ```
 And now you will get the form of such approaches
-https://cdn.discordapp.com/attachments/751435920942694436/761199873642987520/profile.png
+
+![Profile Card](/profile_card)
 
 And We end the code.
 Thank you Guys for reed the guide.
